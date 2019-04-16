@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/barra1212/ecommerce.svg?branch=master)](https://travis-ci.org/barra1212/ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
